@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3288bdc6-31bb-4b06-bae9-32f3e228a4c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1zYLWXAiZtVJxFbGMSMfh6OWdke" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3288bdc6-31bb-4b06-bae9-32f3e228a4c3" name="Default Changelist" comment="" />
+      <created>1634320109113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634320109113</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="761" y="275" key="#Project_Structure" timestamp="1634320114828">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="761" y="275" key="#Project_Structure/-1600.366.1600.1140/0.0.2560.1400/3840.1257.1440.860@0.0.2560.1400" timestamp="1634320114828" />
+    <state x="1061" y="418" key="FileChooserDialogImpl" timestamp="1638365300928">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="418" key="FileChooserDialogImpl/-1600.628.1600.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1638365300928" />
+    <state x="956" y="405" width="653" height="590" key="NewModule_or_Project.wizard" timestamp="1638365327033">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="956" y="405" width="653" height="590" key="NewModule_or_Project.wizard/-1600.628.1600.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1638365327033" />
+    <state x="1344" y="334" key="SettingsEditor" timestamp="1639475141017">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="346" key="SettingsEditor/-1600.366.1600.1140/0.0.2560.1400/3840.1257.1440.860@0.0.2560.1400" timestamp="1634320145736" />
+    <state x="1344" y="334" key="SettingsEditor/-1600.628.1600.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1639475141017" />
+    <state x="888" y="311" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1638880390927">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="888" y="311" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1600.628.1600.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1638880390927" />
+    <state x="1203" y="151" width="1249" height="1357" key="dock-window-1" timestamp="1637927597910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1203" y="151" width="1249" height="1357" key="dock-window-1/-1600.628.1600.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1637927597910" />
+    <state x="953" y="371" key="run.anything.popup" timestamp="1634797696217">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="953" y="371" key="run.anything.popup/-1600.366.1600.1140/0.0.2560.1400/3840.1257.1440.860@0.0.2560.1400" timestamp="1634797696217" />
+    <state x="937" y="354" width="672" height="678" key="search.everywhere.popup" timestamp="1641218427639">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="937" y="354" width="672" height="678" key="search.everywhere.popup/-1600.628.1600.1140/0.0.2560.1400@0.0.2560.1400" timestamp="1641218427639" />
+  </component>
+</project>
